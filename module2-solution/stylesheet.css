@@ -68,12 +68,15 @@ p {
 @media (max-width:767px) {
   h2#Chicken{
     margin-right: 17px;
+     margin-left:  17px;
   }
   h2#Beef{
     margin-right: 17px;
+     margin-left:  17px;
   }
   h2#Sushi{
     margin-right: 17px;
+     margin-left:  17px;
   }
 }
 /********** Large devices only **********/
