@@ -1,0 +1,103 @@
+body{
+	font-size: 16px;
+	font-family: oxygen, sans-serif;
+	box-sizing: border-box;
+	font-weight: bold;
+}	
+/** HEADER **/
+#header-nav{
+  background-color: gray;
+  border-radius: 0px;
+  border: 2px solid black;*/
+  height: 5em;
+  width: 100%;
+ padding: 0px;
+ margin:0px;
+}
+div.container-fluid{
+	margin-right: 0px;
+	margin-left: 0px;
+}
+}
+.navbar-brand{
+	padding-top: 20px;
+}
+.navbar-brand h1 { /* Restaurant name */
+ font-size: 1.8em;
+  color: black;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0px;
+  margin-bottom: 0;
+  line-height: .75;
+  border-radius: 0px;
+  border: 0px;
+  margin-right: 0px;
+  margin-left: 0px;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+.navbar-toggle{
+	height: 3em;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 2px solid black;
+}
+.navbar-nav{
+	font-size: 20px;
+	font-weight: bold;
+	text-transform: uppercase;
+	background-color: white;
+	text-align: center; 
+}
+#collapsable-nav a:hover, #collapsable-nav a:focus{
+	background-color: none;
+}
+#collapsable-nav span{
+	color: black;
+	font-size: 24px;
+}
+a#Chicken{
+	border: 2px solid black;
+}
+a#Beef{
+	border: 2px solid black;
+}a#Sushi{
+	border: 2px solid black;
+}
+/*HEADER ENDS*/
+/*SECTION STARTS*/
+div>h1{
+	color: black;
+	font-size: 2.5em;
+	font-weight: bold;
+	margin-top: 45px;
+	margin-bottom: 45px;
+}
+section{
+	margin-left: 20px;
+	margin-right: 20px;
+	background-color: gray;
+}
+section>h2{
+   text-align: center;
+   color: black;
+   font-size: 2em;
+   font-weight: bold;
+   padding: 15px;
+}
+section>p{
+	padding: 15px 50px;
+	font-size: 1.3em;
+	color: black;
+}
+/*SECTION ENDS*/
+
+
+
+
+
+
+
+
