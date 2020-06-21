@@ -24,7 +24,10 @@ h2 {
   margin-top: 20px;
   margin-right: -4px;
   font-size: 175%;
+<<<<<<< HEAD
 
+=======
+>>>>>>> a0391cd790cb0a0175b88f724e06f3e469aff27f
   
 }
 h1.OurMenu {
@@ -46,8 +49,11 @@ p {
   padding: 50px 20px 40px 20px;
   margin: 20px 0px 0px 20px;
   font-size: 125%;
+<<<<<<< HEAD
   text-align: justify;
 
+=======
+>>>>>>> a0391cd790cb0a0175b88f724e06f3e469aff27f
 }
 
 /* Simple Responsive Framework. */
@@ -74,11 +80,17 @@ p {
   }
   h2#Beef{
     margin-right: 17px;
+<<<<<<< HEAD
     
   }
   h2#Sushi{
     margin-right: 17px;
     
+=======
+  }
+  h2#Sushi{
+    margin-right: 17px;
+>>>>>>> a0391cd790cb0a0175b88f724e06f3e469aff27f
   }
 }
 /********** Large devices only **********/
@@ -210,4 +222,8 @@ p {
   .col-xs-12 {
     width: 100%;
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> a0391cd790cb0a0175b88f724e06f3e469aff27f
